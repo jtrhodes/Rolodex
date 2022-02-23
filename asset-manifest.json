@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rolodex/static/css/main.41314869.css",
-    "main.js": "/rolodex/static/js/main.f03a6250.js",
-    "static/js/787.28cb0dcd.chunk.js": "/rolodex/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/rolodex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/rolodex/index.html",
-    "main.41314869.css.map": "/rolodex/static/css/main.41314869.css.map",
-    "main.f03a6250.js.map": "/rolodex/static/js/main.f03a6250.js.map",
-    "787.28cb0dcd.chunk.js.map": "/rolodex/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Rolodex/static/css/main.41314869.css",
+    "main.js": "/Rolodex/static/js/main.ff3832a9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Rolodex/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Rolodex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Rolodex/index.html",
+    "main.41314869.css.map": "/Rolodex/static/css/main.41314869.css.map",
+    "main.ff3832a9.js.map": "/Rolodex/static/js/main.ff3832a9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Rolodex/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41314869.css",
-    "static/js/main.f03a6250.js"
+    "static/js/main.ff3832a9.js"
   ]
 }
